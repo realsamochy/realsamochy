@@ -1,11 +1,8 @@
 ### Hi there, I'm Samuel Moses - aka [Samochy][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://realsamochy.github.io/portfolio)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RealSamochy)
 
 ## I'm a Developer, Ethical Hacker, and Cyber Security Specialist!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -48,12 +45,7 @@
 </details>
 
 [website]: https://realsamochy.github.io/portfolio/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/realsamochy
-[facebook]: https://youtube.com/realsamochy
-[instagram]: https://instagram.com/realsamochy
-[linkedin]: https://linkedin.com/in/realsamochy
-[webdevplaylist]: https://realsamochy.github.io/portfolio/
-[jsplaylist]: https://realsamochy.github.io/portfolio/
-[cssplaylist]: https://realsamochy.github.io/portfolio/
-[reactplaylist]: https://realsamochy.github.io/portfolio/
+[twitter]: https://twitter.com/realsamochy/
+[facebook: https://youtube.com/realsamochy/
+[instagram]: https://instagram.com/realsamochy/
+[linkedin]: https://linkedin.com/in/realsamochy/

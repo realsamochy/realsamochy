@@ -50,7 +50,7 @@
 [website]: https://realsamochy.github.io/portfolio/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/realsamochy
-[facebook: https://youtube.com/realsamochy
+[facebook]: https://youtube.com/realsamochy
 [instagram]: https://instagram.com/realsamochy
 [linkedin]: https://linkedin.com/in/realsamochy
 [webdevplaylist]: https://realsamochy.github.io/portfolio/
